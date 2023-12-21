@@ -32,6 +32,6 @@ Student @ 42
 
 ### Stats
 
-<a href="http://www.github.com/gogolescargot"><img src="https://github-readme-stats.vercel.app/api?username=gogolescargot&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="gogolescargot's GitHub stats" /></a>
-<a href="http://www.github.com/gogolescargot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gogolescargot&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/gogolescargot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogolescargot&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/gogolescargot"><img src="https://github-readme-stats.vercel.app/api?username=gogolescargot&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=0d1117&hide_border=true&show_icons=true" alt="gogolescargot's GitHub stats" /></a>
+<a href="http://www.github.com/gogolescargot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gogolescargot&stroke=ffffff&background=0d1117&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/gogolescargot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogolescargot&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
