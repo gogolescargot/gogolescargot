@@ -31,6 +31,15 @@
 				<img src="https://img.shields.io/badge/english-C9082A?style=flat">
 			</blockquote>
 			<h4>
+				⠀⠀socials
+			</h4>
+			<blockquote>
+				
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gogolescargot)
+[![LeetCode](https://img.shields.io/badge/-leetcode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/gogolescargot/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gogolescargot/)
+			</blockquote>
+			<h4>
 				⠀⠀contact
 			</h4>
 			<blockquote>
@@ -42,7 +51,7 @@
 			</a>
 		</td>
 		<td align="right" width="50%">
-			<img src="https://i.pinimg.com/originals/f7/79/88/f77988105b283b084afe498eeec242bd.jpg" height="100%">
+			<img src="https://i.pinimg.com/originals/08/e9/f5/08e9f5c1139d2e4b03a6851db6f92de8.jpg" height="100%">
 		</td>
 	</tr>
 </table>
