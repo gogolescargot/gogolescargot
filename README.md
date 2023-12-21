@@ -9,10 +9,10 @@ Student @ 42
 *   🌍  I'm based in Lyon / Montpellier
 *   ✉️  You can contact me at [ggalon@student.42lyon.fr](mailto:ggalon@student.42lyon.fr)
 *   🧠  I'm learning C
-<a href="https://www.github.com/gogolescargot" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/gogolescargot?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+
 
 ### Skills 
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -30,8 +30,11 @@ Student @ 42
 <a href="https://www.linkedin.com/in/gauthiergalon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
 
+
 ### Stats
 
+<p align="left">
 <a href="http://www.github.com/gogolescargot"><img src="https://github-readme-stats.vercel.app/api?username=gogolescargot&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=0d1117&hide_border=true&show_icons=true" alt="gogolescargot's GitHub stats" /></a>
 <a href="http://www.github.com/gogolescargot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gogolescargot&stroke=ffffff&background=0d1117&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/gogolescargot" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogolescargot&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
