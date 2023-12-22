@@ -7,9 +7,10 @@
 			<hr>
 <pre>
  💬 my name is Gauthier
- 📖 i'm a french student at 42 Lyon
- 🌍 i'm based in Lyon and Montpellier
- 🧠 i'm currently learning C
+ 📖 19yo french student
+ 💻 studying at 42 lyon
+ 🌍 based in Lyon and Montpellier
+ 🧠 currently learning C
 </pre>
 			<h4>
 				⠀⠀skills
