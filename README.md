@@ -6,11 +6,11 @@
 			</h3>
 			<hr>
 <pre>
- 💬 my name is Gauthier
- 📖 19yo french student
- 💻 studying at 42 lyon
- 🌍 based in Lyon and Montpellier
- 🧠 currently learning C
+ ・ my name is Gauthier
+ ・ 19yo french student
+ ・ studying at 42 lyon
+ ・ based in Lyon and Montpellier
+ ・ currently learning C
 </pre>
 			<h4>
 				⠀⠀skills
@@ -44,8 +44,8 @@
 				⠀⠀contact
 			</h4>
 			<blockquote>
-				<img src="https://img.shields.io/badge/discord-738ADB?style=flat&logo=discord&logoColor=white">
-				<img src="https://img.shields.io/badge/-mail-1577CF?style=flat&logo=ThunderBird&logoColor=white">
+				[![Discord](https://img.shields.io/badge/discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/users/385337518880718848)
+				[![Mail](https://img.shields.io/badge/-mail-1577CF?style=flat&logo=ThunderBird&logoColor=white)](mailto:contact-pro@gauthiergalon.dev)
 			</blockquote>
 				<img src="https://github-readme-stats.vercel.app/api?username=gogolescargot&show_icons=true&hide=&count_private=true&title_color=e6edf3&text_color=858585&icon_color=858585&bg_color=0D1117&hide_border=false&border_color=0d1117&show_icons=true" />
 				<img src="https://github-readme-streak-stats.herokuapp.com/?user=gogolescargot&stroke=858585&background=0D1117&ring=858585&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=858585&dates=858585&hide_border=true" />
