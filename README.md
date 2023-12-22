@@ -51,7 +51,7 @@
 			</a>
 		</td>
 		<td align="right" width="50%">
-			<img src="https://i.pinimg.com/736x/74/84/36/7484360a6a365e8fb57f9689f9c18f51.jpg" height="100%">
+			<img src="https://i.pinimg.com/736x/aa/67/a8/aa67a84adb24ec4250b024b1acb008ea.jpg" height="100%">
 		</td>
 	</tr>
 </table>
