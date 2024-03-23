@@ -16,10 +16,11 @@
 				⠀⠀skills
 			</h4>
 			<blockquote>
-				<img src="https://img.shields.io/badge/c-00599C?style=flat&logo=c&logoColor=white">
-				<img src="https://img.shields.io/badge/python-306998?style=flat&logo=python&logoColor=white">
-				<img src="https://img.shields.io/badge/-html-E44D27?style=flat&logo=html5&logoColor=white">
-				<img src="https://img.shields.io/badge/-css-1572B6?style=flat&logo=css3">
+				<img src="https://img.shields.io/badge/c-555555?style=flat&logo=c&logoColor=white">
+				<img src="https://img.shields.io/badge/c++-F34B7D?style=flat&logo=c%2B%2B&logoColor=white">
+				<img src="https://img.shields.io/badge/python-3572A5?style=flat&logo=python&logoColor=white">
+				<img src="https://img.shields.io/badge/-html-E34C26?style=flat&logo=html5&logoColor=white">
+				<img src="https://img.shields.io/badge/-css-563D7C?style=flat&logo=css3">
 				<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
 				<img src="https://img.shields.io/badge/git-E44C30?style=flat&logo=git&logoColor=white">
 				<img src="https://img.shields.io/badge/vscode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
