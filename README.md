@@ -10,7 +10,7 @@
  ・ 19yo french student
  ・ studying at 42 Lyon
  ・ based in Lyon and Montpellier
- ・ currently learning C
+ ・ currently learning C and C++
 </pre>
 			<h4>
 				⠀⠀skills
