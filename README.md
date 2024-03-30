@@ -21,6 +21,7 @@
 				<img src="https://img.shields.io/badge/python-3572A5?style=flat&logo=python&logoColor=white">
 				<img src="https://img.shields.io/badge/-html-E34C26?style=flat&logo=html5&logoColor=white">
 				<img src="https://img.shields.io/badge/-css-563D7C?style=flat&logo=css3">
+				<br />
 				<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
 				<img src="https://img.shields.io/badge/git-E44C30?style=flat&logo=git&logoColor=white">
 				<img src="https://img.shields.io/badge/vscode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
