@@ -49,11 +49,13 @@
 				[![Discord](https://img.shields.io/badge/discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/users/385337518880718848)
 				[![Mail](https://img.shields.io/badge/-mail-1577CF?style=flat&logo=ThunderBird&logoColor=white)](mailto:contact-pro@gauthiergalon.dev)
 			</blockquote>
-				<img src="https://github-readme-stats.vercel.app/api?username=gogolescargot&show_icons=true&hide=&count_private=true&title_color=e6edf3&text_color=858585&icon_color=858585&bg_color=0D1117&hide_border=false&border_color=0d1117&show_icons=true" />
-				<img src="https://github-readme-streak-stats.herokuapp.com/?user=gogolescargot&stroke=858585&background=0D1117&ring=858585&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=858585&dates=858585&hide_border=true" />
+				<img src="https://github-readme-stats.vercel.app/api?username=gogolescargot&count_private=true&title_color=e6edf3&text_color=858585&icon_color=858585&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&card_width=401&layout=compact" />
+    				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogolescargot&count_private=true&title_color=e6edf3&text_color=858585&icon_color=858585&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&card_width=401&layout=compact" />
 		</td>
 		<td align="right" width="50%">
 			<img src="https://i.pinimg.com/736x/aa/67/a8/aa67a84adb24ec4250b024b1acb008ea.jpg" height="100%">
 		</td>
 	</tr>
 </table>
+
+
