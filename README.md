@@ -24,6 +24,7 @@
 				<br />
 				<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
 				<img src="https://img.shields.io/badge/git-E44C30?style=flat&logo=git&logoColor=white">
+				<img src="https://img.shields.io/badge/shell-89E051?style=flat&logo=gnu-bash&logoColor=black">
 			</blockquote>
 			<h4>
 				⠀⠀languages
