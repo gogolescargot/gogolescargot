@@ -24,7 +24,6 @@
 				<br />
 				<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
 				<img src="https://img.shields.io/badge/git-E44C30?style=flat&logo=git&logoColor=white">
-				<img src="https://img.shields.io/badge/vscode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
 			</blockquote>
 			<h4>
 				⠀⠀languages
