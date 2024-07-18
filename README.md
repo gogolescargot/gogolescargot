@@ -48,7 +48,7 @@
 			</h4>
 			<blockquote>
 				[![Discord](https://img.shields.io/badge/discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/users/385337518880718848)
-				[![Mail](https://img.shields.io/badge/-mail-1577CF?style=flat&logo=ThunderBird&logoColor=white)](mailto:contact-pro@gauthiergalon.dev)
+				[![Mail](https://img.shields.io/badge/-mail-1577CF?style=flat&logo=ThunderBird&logoColor=white)](mailto:gauthiergalon@pm.me)
 			</blockquote>
 				<img src="https://github-readme-stats.vercel.app/api?username=gogolescargot&title_color=e6edf3&text_color=858585&icon_color=858585&bg_color=00000000&hide_border=true&show_icons=true&card_width=401&layout=compact" />
     				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogolescargot&title_color=e6edf3&text_color=858585&icon_color=858585&bg_color=00000000&hide_border=true&show_icons=true&card_width=401&layout=compact" />
