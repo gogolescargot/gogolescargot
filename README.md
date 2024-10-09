@@ -23,8 +23,11 @@
 				<img src="https://img.shields.io/badge/-css-563D7C?style=flat&logo=css3">
 				<br />
 				<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
-				<img src="https://img.shields.io/badge/git-E44C30?style=flat&logo=git&logoColor=white">
 				<img src="https://img.shields.io/badge/shell-89E051?style=flat&logo=gnu-bash&logoColor=black">
+				<img src="https://img.shields.io/badge/git-E44C30?style=flat&logo=git&logoColor=white">
+				<br />
+				<img src="https://img.shields.io/badge/mongodb-11AA50?style=flat&logo=mongodb&logoColor=white">
+				<img src="https://img.shields.io/badge/mysql-00618A?style=flat&logo=mysql&logoColor=white">
 				<img src="https://img.shields.io/badge/docker-384D54?style=flat&logo=docker&logoColor=white">
 			</blockquote>
 			<h4>
