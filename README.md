@@ -7,7 +7,7 @@
 			<hr>
 <pre>
  ・ my name is Gauthier
- ・ 19yo french student
+ ・ 20yo french student
  ・ studying at 42 Lyon
  ・ based in Lyon and Montpellier
  ・ currently learning C++
