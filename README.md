@@ -17,7 +17,11 @@
 			<blockquote>
 				<img src="https://img.shields.io/badge/c-555555?style=flat&logo=c&logoColor=white">
 				<img src="https://img.shields.io/badge/cpp-F34B7D?style=flat&logo=c%2B%2B&logoColor=white">
+				<img src="https://img.shields.io/badge/rust-DEA584?style=flat&logo=rust&logoColor=333333">
+				<br />
 				<img src="https://img.shields.io/badge/python-3572A5?style=flat&logo=python&logoColor=white">
+				<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white">
+				<br />
 				<img src="https://img.shields.io/badge/-html-E34C26?style=flat&logo=html5&logoColor=white">
 				<img src="https://img.shields.io/badge/-css-563D7C?style=flat&logo=css3">
 				<br />
