@@ -15,7 +15,6 @@
 				⠀⠀skills
 			</h4>
 			<blockquote>
-				<br />
 				<img src="https://img.shields.io/badge/c-555555?style=flat&logo=c&logoColor=white">
 				<img src="https://img.shields.io/badge/cpp-F34B7D?style=flat&logo=c%2B%2B&logoColor=white">
 				<img src="https://img.shields.io/badge/rust-DEA584?style=flat&logo=rust&logoColor=333333">
