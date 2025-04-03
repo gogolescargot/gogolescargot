@@ -15,23 +15,30 @@
 				⠀⠀skills
 			</h4>
 			<blockquote>
+				<br />
 				<img src="https://img.shields.io/badge/c-555555?style=flat&logo=c&logoColor=white">
 				<img src="https://img.shields.io/badge/cpp-F34B7D?style=flat&logo=c%2B%2B&logoColor=white">
 				<img src="https://img.shields.io/badge/rust-DEA584?style=flat&logo=rust&logoColor=333333">
 				<br />
+				<br />
 				<img src="https://img.shields.io/badge/python-3572A5?style=flat&logo=python&logoColor=white">
 				<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white">
 				<br />
+				<br />
+				<img src="https://img.shields.io/badge/mongodb-11AA50?style=flat&logo=mongodb&logoColor=white">
+				<img src="https://img.shields.io/badge/mysql-00618A?style=flat&logo=mysql&logoColor=white">
+				<img src="https://img.shields.io/badge/docker-384D54?style=flat&logo=docker&logoColor=white">
+				<br />
+				<br />
 				<img src="https://img.shields.io/badge/-html-E34C26?style=flat&logo=html5&logoColor=white">
 				<img src="https://img.shields.io/badge/-css-563D7C?style=flat&logo=css3">
+				<img src="https://img.shields.io/badge/-javascript-F1E05A?style=flat&logo=javascript&logoColor=black">
+				<br />
 				<br />
 				<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
 				<img src="https://img.shields.io/badge/shell-89E051?style=flat&logo=gnu-bash&logoColor=black">
 				<img src="https://img.shields.io/badge/git-E44C30?style=flat&logo=git&logoColor=white">
 				<br />
-				<img src="https://img.shields.io/badge/mongodb-11AA50?style=flat&logo=mongodb&logoColor=white">
-				<img src="https://img.shields.io/badge/mysql-00618A?style=flat&logo=mysql&logoColor=white">
-				<img src="https://img.shields.io/badge/docker-384D54?style=flat&logo=docker&logoColor=white">
 			</blockquote>
 			<h4>
 				⠀⠀languages
