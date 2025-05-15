@@ -8,8 +8,8 @@
 <pre>
  ・ my name is Gauthier
  ・ 20yo french student
- ・ studying at 42 Lyon
- ・ based in Lyon and Montpellier
+ ・ studying at 42
+ ・ based in Montpellier
 </pre>
 			<h4>
 				⠀⠀skills
