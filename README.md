@@ -30,7 +30,7 @@
 				<br />
 				<br />
 				<img src="https://img.shields.io/badge/-html-E34C26?style=flat&logo=html5&logoColor=white">
-				<img src="https://img.shields.io/badge/-css-563D7C?style=flat&logo=css3">
+				<img src="https://img.shields.io/badge/-css-563D7C?style=flat&logo=css">
 				<img src="https://img.shields.io/badge/-javascript-F1E05A?style=flat&logo=javascript&logoColor=black">
 				<br />
 				<br />
