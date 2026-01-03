@@ -35,6 +35,7 @@
 				<br />
 				<br />
 				<img src="https://img.shields.io/badge/mongodb-11AA50?style=flat&logo=mongodb&logoColor=white">
+				<img src="https://img.shields.io/badge/sqlserver-CC2927?style=flat&logo=databricks&logoColor=white">
 				<img src="https://img.shields.io/badge/mysql-00618A?style=flat&logo=mysql&logoColor=white">
 				<br />
 				<br />
