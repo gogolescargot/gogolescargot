@@ -7,7 +7,7 @@
 			<hr>
 <pre>
  ・ my name is Gauthier
- ・ 20yo french student
+ ・ 21yo french student
  ・ studying at 42
  ・ based in Montpellier
 </pre>
@@ -43,13 +43,6 @@
 				<img src="https://img.shields.io/badge/blazor-9780E5?style=flat&logo=blazor&logoColor=white">
 			</blockquote>
 			<h4>
-				⠀⠀languages
-			</h4>
-			<blockquote>
-				<img src="https://img.shields.io/badge/french-002654?style=flat">
-				<img src="https://img.shields.io/badge/english-C9082A?style=flat">
-			</blockquote>
-			<h4>
 				⠀⠀socials
 			</h4>
 			<blockquote>
@@ -62,13 +55,12 @@
 				⠀⠀contact
 			</h4>
 			<blockquote>
-				[![Discord](https://img.shields.io/badge/discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/users/385337518880718848)
 				[![Mail](https://img.shields.io/badge/-mail-1577CF?style=flat&logo=ThunderBird&logoColor=white)](mailto:gauthiergalon@pm.me)
+				[![Discord](https://img.shields.io/badge/discord-738ADB?style=flat&logo=discord&logoColor=white)](https://discord.com/users/385337518880718848)
 			</blockquote>
-    				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogolescargot&title_color=e6edf3&text_color=858585&icon_color=858585&bg_color=00000000&hide_border=true&show_icons=true&card_width=401&layout=compact" />
 		</td>
 		<td align="right" width="50%">
-			<img src="https://i.pinimg.com/736x/aa/67/a8/aa67a84adb24ec4250b024b1acb008ea.jpg" height="100%">
+			<img src="https://i.pinimg.com/736x/f7/79/88/f77988105b283b084afe498eeec242bd.jpg">
 		</td>
 	</tr>
 </table>
