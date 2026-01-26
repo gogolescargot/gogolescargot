@@ -44,9 +44,8 @@
 </h4>
 <blockquote>
 
-[![Github](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/gogolescargot)
-[![LeetCode](https://img.shields.io/badge/-leetcode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/gogolescargot/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauthiergalon/)
+[![LeetCode](https://img.shields.io/badge/-leetcode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/gogolescargot/)
 </blockquote>
 <h4>
 	⠀⠀contact
